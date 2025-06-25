@@ -1,7 +1,7 @@
 {
 	"name": "Parchment Theme",
 	"colors": {
-		"editor.background": "#f4efe9",
+		"editor.background": "#ece8e2",
 		"editor.foreground": "#1e1b04",
 		"editorLineNumber.foreground": "#b8a88a",
     "editorLineNumber.activeForeground": "#8a6f54",
@@ -10,7 +10,8 @@
     "editorIndentGuide.background1": "#e5dece",
     "editorIndentGuide.activeBackground1": "#c9bba7",
     "editorGroupHeader.tabsBackground": "#f8f5ec",
-    "sideBar.background": "#f9f5e9",
+    // "sideBar.background": "#f9f5e9",
+    "sideBar.background": "#e8e3dc",
     "sideBar.foreground": "#4c3a2c",
     "activityBar.background": "#ede6d9",
     "statusBar.background": "#e8e0cf",
@@ -25,6 +26,8 @@
 		"activityBarBadge.background":"#A0845F",
 		"statusBarItem.remoteBackground": "#a18560",
 		"statusBarItem.remoteForeground": "#ffffff",
+		"editor.lineHighlightBorder":"#eba3134a",
+		"editor.lineHighlightBackground": "#eba31325"
 	},
 	"tokenColors": [
 		{
