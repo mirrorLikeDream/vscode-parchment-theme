@@ -7,3 +7,11 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Unreleased]
 
 - Initial release
+
+## [0.0.4] - 2025-06-26
+
+### Changed
+
+- Slightly adjusted the background color of the title bar when active
+
+- Swapped the background colors of active and inactive editor tabs for better visual clarity

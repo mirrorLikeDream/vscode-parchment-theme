@@ -16,7 +16,7 @@ A warm, vintage-inspired Visual Studio Code theme designed to evoke the feel of 
 
 ## 🌈 Preview
 
-![Parchment Theme Screenshot](./preview.png)
+![Parchment Theme Screenshot](./preview_code.png)
 
 ---
 
