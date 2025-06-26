@@ -1,16 +1,43 @@
-# vscode-parchment-theme README
+# 🪶 Parchment Theme for Visual Studio Code
 
-## Working with Markdown
+A warm, vintage-inspired Visual Studio Code theme designed to evoke the feel of parchment paper and classic script. Ideal for developers who prefer an elegant, soft-toned, and distraction-free environment.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+---
 
-- Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-- Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-- Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## ✨ Features
 
-## For more information
+- 📜 Handcrafted parchment-style color palette
+- ✒️ Custom syntax highlighting for HTML, CSS, JavaScript, Vue, and more
+- 🪶 Smooth tones inspired by aged paper, ink, and natural materials
+- 🎨 Subtle shadows and warm contrasts for minimal eye strain
+- 📦 Includes custom icons and status bar styling
 
-- [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-- [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+---
 
-**Enjoy!**
+## 🌈 Preview
+
+![Parchment Theme Screenshot](./preview.png)
+
+---
+
+## 📦 Installation
+
+1. Open **Extensions** in VS Code (`Ctrl+Shift+X`)
+2. Search for **Parchment Theme**
+3. Click **Install**
+4. Open the Command Palette (`Ctrl+Shift+P`) and choose:  
+   `Preferences: Color Theme` → Select **Parchment Theme**
+
+## 🛠 Customization
+
+You can fine-tune the theme using your `settings.json`:
+
+```jsonc
+"workbench.colorCustomizations": {
+   "[Parchment Theme]": {
+      "activityBarBadge.background": "#b09764",
+      "statusBarItem.remoteBackground": "#a18560",
+      "list.activeSelectionBackground": "#d9c7a6"
+   }
+}
+```
