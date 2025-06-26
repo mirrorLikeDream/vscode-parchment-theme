@@ -1,7 +1,12 @@
 {
   "name": "vscode-parchment-theme",
-  "displayName": "vscode-parchment-theme",
-  "description": "一个羊皮纸主题",
+  "displayName": "VS Code Parchment-Theme",
+  "description": "A Parchment Theme",
+  "publisher": "simier-zhouzf",
+  "author": {
+    "name": "mirrorLikeDream",
+    "url": "https://github.com/mirrorLikeDream"
+  },
   "version": "0.0.3",
   "repository": {
     "type": "git",
@@ -22,5 +27,6 @@
         "path": "./themes/Parchment Theme-color-theme.json"
       }
     ]
-  }
+  },
+  "license": "MIT"
 }
