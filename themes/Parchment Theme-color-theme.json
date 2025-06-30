@@ -36,7 +36,9 @@
     "list.highlightForeground": "#8c4b16",
     "list.hoverBackground": "#d0c2a129",
     "focusBorder": "#4C473E",
-    "button.background": "#705697"
+    "button.background": "#705697",
+    "editorBracketHighlight.foreground1": "#5c76ed",
+    "editorBracketHighlight.foreground3": "#ba3327"
   },
   "tokenColors": [
     {
@@ -124,8 +126,14 @@
       "name": "Classes",
       "scope": ["entity.name.type", "entity.other.inherited-class", "support.class"],
       "settings": {
-        "fontStyle": "bold",
-        "foreground": "#8651a5e5"
+        "foreground": "#ad404b" // #8651a5e5
+      }
+    },
+    {
+      "name": "Class New",
+      "scope": ["keyword.operator.new.ts", "keyword.operator.new.js"],
+      "settings": {
+        "foreground": "#ad404b" // #8651a5e5
       }
     },
     {
