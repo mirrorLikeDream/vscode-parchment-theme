@@ -12,13 +12,12 @@
     "editorIndentGuide.background1": "#e5dece",
     "editorIndentGuide.activeBackground1": "#c9bba7",
     "editorGroupHeader.tabsBackground": "#f8f5ec",
-    // "sideBar.background": "#f9f5e9",
     "sideBar.background": "#e8e3dc",
     "sideBar.foreground": "#4c3a2c",
     "activityBar.background": "#ede6d9",
     "statusBar.background": "#e8e0cf",
     "statusBar.foreground": "#3a2f25",
-    "titleBar.activeBackground": "#433925", // #4C473E #433925
+    "titleBar.activeBackground": "#433925",
     "titleBar.inactiveBackground": "#cac0a1",
     "titleBar.activeForeground": "#cccccc",
     "titleBar.inactiveForeground": "#8d8888",
@@ -126,14 +125,14 @@
       "name": "Classes",
       "scope": ["entity.name.type", "entity.other.inherited-class", "support.class"],
       "settings": {
-        "foreground": "#ad404b" // #8651a5e5
+        "foreground": "#ad404b"
       }
     },
     {
       "name": "Class New",
       "scope": ["keyword.operator.new.ts", "keyword.operator.new.js"],
       "settings": {
-        "foreground": "#ad404b" // #8651a5e5
+        "foreground": "#ad404b"
       }
     },
     {
