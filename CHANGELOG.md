@@ -31,3 +31,11 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Refined bracket colors ({}, [], ()) to improve code readability
 
 - Minified the theme JSON file to reduce extension size and improve loading performance
+
+## [0.0.6] - 2025-07-01
+
+### Changed
+
+- Updated the color for activityBar foreground、tab.inactiveBackground
+
+- Updated the color for word highlight strong background for better visibility
