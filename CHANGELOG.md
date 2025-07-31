@@ -32,10 +32,18 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Minified the theme JSON file to reduce extension size and improve loading performance
 
-## [0.0.6] - 2025-07-01
+## [0.0.7] - 2025-07-01
 
 ### Changed
 
 - Updated the color for activityBar foreground、tab.inactiveBackground
 
 - Updated the color for word highlight strong background for better visibility
+
+## [0.0.8] - 2025-07-31
+
+### Changed
+
+- Updated the status bar background color in Restricted (untrusted) mode and Debug mode
+- Updated the background color for prominent status bar items for better visual emphasis
+
