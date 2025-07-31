@@ -38,7 +38,10 @@
     "focusBorder": "#4C473E",
     "button.background": "#705697",
     "editorBracketHighlight.foreground1": "#5c76ed",
-    "editorBracketHighlight.foreground3": "#ba3327"
+    "editorBracketHighlight.foreground3": "#ba3327",
+    "statusBar.noFolderBackground": "#E8E0CF",
+    "statusBarItem.prominentBackground": "#d3982c59",
+    "statusBar.debuggingBackground": "#e4bc94"
   },
   "tokenColors": [
     {

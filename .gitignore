@@ -1,3 +1,5 @@
 node_modules
 *.vsix
 .env
+/screenshots/repveiew_code.ts
+/screenshots/repveiew_code.js
